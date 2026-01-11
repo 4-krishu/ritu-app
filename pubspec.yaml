@@ -87,6 +87,10 @@ flutter:
     - assets/videos/memory4.mp4
     - assets/videos/memory5.mp4
     - assets/videos/memory6.mp4
+    - assets/secret/secret1.jpg
+    - assets/secret/secret2.jpg
+    - assets/secret/secret3.jpg
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
